@@ -12,3 +12,5 @@ The aim of this workshop is to help everyone kickstart their Data Science curios
 Register here for Data Science meetups every week: https://goo.gl/forms/UT4OH9FkhLVz4Y5y2
 
 Project: https://github.com/udacity/machine-learning/tree/master/projects/boston_housing
+
+Link for Mac users: https://oranwind.org/bid-data-mac-os-an-zhuang-jupyter/
