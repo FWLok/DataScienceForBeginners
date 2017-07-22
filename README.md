@@ -7,3 +7,6 @@ This workshop will be divided into four sections:
 4. Project
 
 The aim of this workshop is to help everyone kickstart their Data Science curiosity with some hands-on experience. This is highly recommended for individuals interested in Data Science, Machine Learning, Artificial Intelligence, Big Data, etc.
+
+
+Register here for Data Science meetups every week: https://goo.gl/forms/UT4OH9FkhLVz4Y5y2
